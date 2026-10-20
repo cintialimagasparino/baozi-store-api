@@ -8,7 +8,7 @@ A Baozi Store é uma pequena loja especializada na venda de pães chineses cozid
 
 Um cliente chamado CINTIA4546155 realizou seu cadastro no sistema. O produto vendido pela loja chama-se Huajuan (pão chinês tradicional) e possui o preço unitário de R$ 12,50, estando disponível em estoque.
 
-Em um determinado momento, o cliente CINTIA4546155 realizou um pedido de 5 unida-des do produto Huajuan. O sistema registra o cliente, o produto comprado e a quantidade solicitada, facilitando o controle da loja.
+Em um determinado momento, o cliente CINTIA4546155 realizou um pedido de 5 unidades do produto Huajuan. O sistema registra o cliente, o produto comprado e a quantidade solicitada, facilitando o controle da loja.
 
 ## Tecnologias Utilizadas
 - Java 21
